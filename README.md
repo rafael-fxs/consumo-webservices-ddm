@@ -1,4 +1,4 @@
-# Consumo Web Service Kotlin
+# Consumo Web Services Kotlin
 
 - Aluno: Rafael Felipe Xavier da Silva
 - Curso: Sistemas de Informação
