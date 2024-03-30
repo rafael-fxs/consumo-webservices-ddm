@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyWebCatApplication</string>
+    <string name="random_cat">Random Cat</string>
+</resources>
